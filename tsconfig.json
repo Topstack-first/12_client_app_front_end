@@ -20,12 +20,5 @@
       "es2019",
       "dom"
     ]
-  },
-"angularCompilerOptions-save": {
-        "annotationsAs": "decorators",
-        "preserveWhitespaces": false
-    },
-    "angularCompilerOptions": {
-        "enableIvy": true
-    }
+  }
 }

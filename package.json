@@ -36,6 +36,7 @@
     "@angular/common": "^9.1.12",
     "@angular/compiler": "^9.1.12",
     "@angular/core": "^9.1.12",
+    "@angular/fire": "^6.0.0-rc.2",
     "@angular/forms": "^9.1.12",
     "@angular/http": "^7.2.16",
     "@angular/localize": "^9.1.12",

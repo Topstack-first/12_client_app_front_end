@@ -14,5 +14,6 @@
     "enableIvy": true,
     "importHelpers": true
   },
+
   "files": ["main.ts", "polyfills.ts"]
 }
